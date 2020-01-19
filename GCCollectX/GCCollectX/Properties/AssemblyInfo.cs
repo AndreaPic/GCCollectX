@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GCCollectX")]
 [assembly: AssemblyDescription("GC.Collect enhancement to free all heap unused windows memory")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Studio Progettazione Software")]
+[assembly: AssemblyCompany("Andrea Piccioni")]
 [assembly: AssemblyProduct("GCCollectX")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
