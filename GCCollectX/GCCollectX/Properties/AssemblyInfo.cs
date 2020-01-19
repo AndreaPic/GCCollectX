@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("GCCollectX")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("GC.Collect enhancement to free all heap unused windows memory")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Studio Progettazione Software")]
 [assembly: AssemblyProduct("GCCollectX")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
