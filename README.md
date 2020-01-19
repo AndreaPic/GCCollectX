@@ -31,3 +31,6 @@ With first API we ensure that the working size in memory allocation is set to th
 With second API we compact all allocated block of memory.
 
 First we say to the system that we want the minimum page size when one object is allocated to the heap, second we compact all the allocated memory's pages.
+
+## NuGet
+You can download package from [this link](https://www.nuget.org/packages/GCCollectX/)
